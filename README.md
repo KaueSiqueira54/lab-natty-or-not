@@ -11,5 +11,5 @@ LeonardoIa para geração da Imagem utilizada;
 LibreOffice para edição do arquivo;
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Arquivo gerado disponivel no repositório como "ark.odt"
 
